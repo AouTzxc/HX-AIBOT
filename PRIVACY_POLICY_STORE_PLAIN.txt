@@ -1,0 +1,102 @@
+HX-AIBOT Privacy Policy
+Effective Date: 2026-04-10
+
+This Privacy Policy applies to the HX-AIBOT Windows desktop application.
+
+1. Data We Process
+HX-AIBOT may process the following data on your device:
+- API URL, API Key, model ID, timeout, prompts, button coordinates, interface language, and theme settings
+- Log text, window titles, window bounds, and button locator data
+- Screenshot data when you actively run screenshot analysis or auto-solving
+- Local screenshot files saved to the captures folder when you choose Save Screenshot
+
+2. How Data Is Used
+HX-AIBOT uses this data to:
+- Capture the selected window
+- Send screenshots and prompts to the third-party AI endpoint configured by the user
+- Detect questions, options, and answers
+- Assist with automatic clicking of answer options, next-question buttons, and submit buttons
+- Save local settings and improve the local user workflow
+
+3. How Data Is Shared
+HX-AIBOT does not send data to a developer-operated backend by default.
+If the user configures a third-party AI endpoint, screenshots, prompts, and required request parameters are sent to that third-party service.
+That third-party provider may process data according to its own privacy policy and terms.
+
+4. Storage and Retention
+Configuration data is stored locally in settings.json until the user edits or deletes it.
+Logs are shown locally inside the application and are not automatically uploaded to a developer server.
+Screenshots are only saved locally when the user explicitly uses the Save Screenshot feature.
+Any data sent to a third-party AI endpoint is retained according to that provider's own policies.
+
+5. User Controls
+Users can control data processing by:
+- Not entering an API Key
+- Not using screenshot analysis features
+- Deleting settings.json
+- Deleting files in the captures folder
+- Choosing a trusted AI provider
+- Stopping use of the application
+
+6. Microsoft Store Notice
+If HX-AIBOT is distributed through Microsoft Store, the Store listing should include an accessible privacy policy link or equivalent privacy policy content.
+Because the app allows users to enter API credentials and send screenshots to a user-selected third-party AI service, the Store disclosure should match the actual distributed version.
+
+7. Contact
+Replace this line before Store submission:
+Support email: [replace before submission]
+
+8. Policy Updates
+If this Privacy Policy changes, update the effective date and policy text accordingly.
+
+====================
+HX-AIBOT 隐私政策
+生效日期：2026-04-10
+
+本隐私政策适用于 HX-AIBOT Windows 桌面应用。
+
+1. 我们处理的数据
+HX-AIBOT 可能会在你的设备上处理以下数据：
+- API 地址、API Key、模型 ID、超时秒数、提示词、按钮坐标、界面语言和主题设置
+- 日志文本、窗口标题、窗口范围和按钮定位数据
+- 当你主动执行截图分析或自动答题时产生的截图数据
+- 当你使用“保存截图”功能时保存在 captures 文件夹中的本地截图文件
+
+2. 数据用途
+HX-AIBOT 使用这些数据来：
+- 捕获你选择的目标窗口
+- 将截图和提示词发送到用户配置的第三方 AI 接口
+- 识别题目、选项和答案
+- 辅助自动点击选项、下一题按钮和提交按钮
+- 保存本地设置并改善本地使用体验
+
+3. 数据共享方式
+HX-AIBOT 默认不会把数据发送到开发者自建服务器。
+如果用户配置了第三方 AI 接口，截图、提示词以及必要的请求参数会发送到该第三方服务。
+该第三方服务提供方可能会按照其自己的隐私政策和服务条款处理数据。
+
+4. 存储与保留
+配置数据会保存在本地 settings.json 中，直到用户手动修改或删除。
+日志默认只显示在本地应用中，不会自动上传到开发者服务器。
+截图只有在用户明确使用“保存截图”功能时才会保存在本地。
+发送到第三方 AI 接口的数据，其保留时间和处理方式由对应服务提供方决定。
+
+5. 用户控制
+用户可以通过以下方式控制数据处理：
+- 不填写 API Key
+- 不使用截图分析功能
+- 删除 settings.json
+- 删除 captures 文件夹中的文件
+- 选择可信任的 AI 服务提供方
+- 停止使用本应用
+
+6. 微软商店说明
+如果通过微软商店分发 HX-AIBOT，商店页面应提供可访问的隐私政策链接或等效隐私政策内容。
+由于应用允许用户输入 API 凭据并将截图发送到用户选择的第三方 AI 服务，因此商店披露内容应与实际分发版本保持一致。
+
+7. 联系方式
+提交商店前请替换为真实联系方式：
+支持邮箱：[发布前请替换]
+
+8. 政策更新
+如果本隐私政策发生变化，请同步更新生效日期和政策内容。
