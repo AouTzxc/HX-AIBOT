@@ -32,7 +32,7 @@ jobs:
       - name: Build Portable Package
         shell: pwsh
         run: |
-          powershell -ExecutionPolicy Bypass -File .\build_qt.ps1
+          .\build_qt.ps1
 
       - name: Upload Release Assets
         uses: softprops/action-gh-release@v2
